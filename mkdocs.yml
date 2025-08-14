@@ -3,6 +3,11 @@ site_url: https://bionicbluelore.indiesmiths.com
 nav:
     - Home: README.md
     - About: about.md
+    - How to: how-to.md
+    - Storylines:
+      - main storyline (Bionic Blue): storylines/bionic-blue/README.md
+      - all storylines: storylines/README.md
+    - Records/accounts: records-accounts/README.md
 repo_url: https://github.com/IndieSmiths/bionicbluelore
 edit_uri: blob/develop/docs/
 theme:

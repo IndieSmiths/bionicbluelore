@@ -1,15 +1,6 @@
-# Bionic Blue lore
+# Bionic Blue
 
-Welcome to the Bionic Blue lore website, wherein we document and share lore about the universe of the Bionic Blue game ([game's website](https://bionicblue.indiesmiths.com) | [game's GitHub repo](https://github.com/IndieSmiths/bionicblue)) by [Kennedy Guerra](https://kennedyrichard.com).
-
-![Animated GIF showing the Bionic Blue game](https://i.imgur.com/Pe9abBl.gif)
-
-Check the [about page](about.md) to know the definition and purposes of this website. Check the [how-to page](how-to.md) for details on how to contribute to this website's content.
-
-
-## Brief summary of main storyline
-
-Many different storylines and smaller stories play out in this world. They may even interact with one another. The following paragraphs are just an excerpt summarizing the events of the main storyline of this world, **Bionic Blue**. For the whole storyline, check [Bionic Blue](storylines/bionic-blue/README.md). For all storylines, check [the storylines section](storylines/README.md). For smaller, but no less important records/accounts from this world, check [the records and accounts section](records-accounts/README.md).
+## Summary
 
 On Earth, in the year 2500, advances in technology created robots capable of simulating the functions of the human mind. However, this state of simulated awareness, on top of consuming inordinate amounts of energy, causes the robots to hallucinate over time, as their fast robotic brains keep generating and processing information recursively.
 
@@ -23,3 +14,14 @@ This turned them into a menace to humans in different ways:
 The free people, now severely reduced in numbers, struggle all they can to survive the clash with mad robots, avoid being imprisoned by the kidnapper robots and their human vassals, and try to secure energy and energy sources for their basic needs, like shelter, food and medical care.
 
 Blue is a bionic boy that helps protect people from such robots. He's one of the few humans who joined the fight for survival and decent living.
+
+The 02 categories of robots (assassins and kidnappers) are not organized into their own monolithic groups either. Some robots act in groups, some act on their own. Naturally, some of these groups stand out from others, growing into formidable organizations.
+
+The only thing left for humans to do was arm themselves as much as they could, but as athletic as a human can become, that human can never surpass the unlimitedly upgradable body of a robot, nor can the human mind act with the same speed or processing power that a robotic mind has.
+
+Because of that, many humans enhanced themselves with bionic parts in order to stand a chance, even if only to be able to barely defend themselves and their loved ones.
+
+
+## Chapters
+
+1. [The innovation that started it all](innovation-that-started-it-all.md)
