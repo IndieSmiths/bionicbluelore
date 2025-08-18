@@ -56,7 +56,7 @@ Any amount is welcome and helps. Check the project's [donation page][] for all d
 
 ## Contributing
 
-Everyone is welcome to suggest and contribute changes.
+Everyone is welcome to suggest and contribute changes. Check the [how-to page](docs/how-to.md) to learn what's needed to contribute and other guidelines (some of them were pasted here as sections in this README document).
 
 > [!IMPORTANT]
 > Please, if submitting a pull request, use the `develop` branch, not the `main` branch. This way it is easier to refine/complement your changes before merging them with `main`.
@@ -68,9 +68,33 @@ If in doubt, please [start a discussion](https://github.com/IndieSmiths/bionicbl
 Since this project uses [MkDocs](https://mkdocs.org) to manage and generate the website, I recommend checking their website for instructions on how it works and how to use, so it is easier for you to contribute changes. In practice though, contributing changes usually boils down to creating and/or editing markdown files.
 
 
+## Using and uploading images
+
+Images (characters, maps, graphs, sketches, etc.) can help your stories pop up or help show the world. Just like in a book, try not to abuse them, though. Of course, if you absolutely must use an image for some purpose, don't hesitate either.
+
+However, please, don't upload them directly to this website's repository right away. Your story may change from your initial draft, resulting in changes in the visual elements depicted in your images, like characters, maps, etc.
+
+So, instead, use a free hosting service like [imgur.com](https://imgur.com) and link directly to that image. Once your story is consolidated over time, you can ask the people managing the project to host your image in some more permanent way, either on our own servers or using another solution. Either way, there will be no cost for you (but again, try not abusing the usage of images, as hosting many heavy files can get expensive for the project).
+
+
+## Discussing things
+
+You can always start a discussion on the [discussion tab](https://github.com/IndieSmiths/bionicbluelore/discussions) of the project for many different purposes. Here are some great ones (but, really, there's no need to limit yourself to these; as long as it is relevant to the project, your discussion is welcome):
+
+- to give feedback about a storyline or record/account
+- if you think some existing storyline or record/account or portion thereof doesn't fit the world, to suggest improvements or even in extreme cases and with proper explanation, suggest its removal
+- share mediums that you created based on this world and its stories (remember, the project is public domain)
+  - art
+  - games
+  - minigames
+  - writing
+  - even other versions/forks of this project approaching the world with your own unique perspective
+  - etc.
+
+
 ## Issues
 
-Issues are reserved for things that break the lore/plot holes. Please, if you're not certain, [start a discussion](https://github.com/IndieSmiths/bionicbluelore/discussions) instead. It can always be converted into an issue later if needed.
+Only create issues for broken things or missing content within the website, like broken links, images that are not loading or that are missing, etc. Use the [issues tab](https://github.com/IndieSmiths/bionicbluelore/issues) of the project for that.
 
 
 ## Contact

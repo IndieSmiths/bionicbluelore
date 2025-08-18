@@ -15,7 +15,7 @@ Knowing a number of topics/tools would help you to contribute to this project. H
 - GitHub (website, a platform which stores projects managed with git and offer other web-based related services)
 - markdown (a digital document format that uses plain text)
 
-Knowing MkDocs and how it works helps, but it is not strictly necessary.
+Knowing MkDocs and how it works helps, but it is not strictly necessary. For those who are familiar with git, note that all changes are submitted to the `develop` branch, not to the `main` branch. This is on purpose, so that it is easier to refine/complement your changes before merging them with `main`.
 
 However, if you happen to not be a tech-savvy person. There are shortcuts. First, if you don't have an account on GitHub make sure to create one (a free account will provide you if all the power and freedom you need to contribute to this project). This allows you to create/edit files directly from its web interface.
 
