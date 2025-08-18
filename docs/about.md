@@ -2,7 +2,7 @@
 
 This website is meant to work as a story bible for the universe wherein the Bionic Blue game ([game's website](https://bionicblue.indiesmiths.com) | [game's GitHub repo](https://github.com/IndieSmiths/bionicblue)) by [Kennedy Guerra](https://kennedyrichard.com) takes place.
 
-According to [Wikipedia](https://en.wikipedia.org/wiki/Bible_(screenwriting)):
+According to [Wikipedia](https://en.wikipedia.org/wiki/Bible_%28screenwriting%29):
 
 > A bible, also known as a show bible or pitch bible, is a reference document used by screenwriters for information on characters, settings, and other elements of a television, film or video game project.
 
