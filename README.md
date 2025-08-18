@@ -12,22 +12,37 @@ This project and the game are part of the [Indie Smiths](https://github.com/Indi
 
 This project uses [MkDocs](https://mkdocs.org) to manage and generate the website.
 
+Many different storylines and smaller stories play out in this world. Here's an excerpt of the main storyline's summary:
+
+> On Earth, in the year 2500, advances in technology created robots capable of simulating the functions of the human mind. However, this state of simulated awareness, on top of consuming inordinate amounts of energy, causes the robots to hallucinate over time, as their fast robotic brains keep generating and processing information recursively.
+>
+> This turned them into a menace to humans in different ways:
+>
+> - some robots succumbed to madness, becoming hostile to humans.
+> - other robots resorted to kidnapping humans, keeping them as hostages so the robots can scan their minds from time to time in order to use the data to alleviate their hallucinations.
+> - both robot categories are hoarding energy and energy sources, including biomass, which deprives humans from them and generates conflict even amongst the robots.
+> - some kidnapped humans don't believe humans can overturn their situation anymore, are content with life under the care of the robots and some of these humans even work for the robots in various positions, including management roles, defense and even help with the kidnappings.
+>
+> The free people, now severely reduced in numbers, struggle all they can to survive the clash with mad robots, avoid being imprisoned by the kidnapper robots and their human vassals, and try to secure energy and energy sources for their basic needs, like shelter, food and medical care.
+>
+> Blue is a bionic boy that helps protect people from such robots. He's one of the few humans who joined the fight for survival and decent living.
+
 
 ## About the website
 
-This website is meant to work as a story bible for the Bionic Blue game. According to [Wikipedia](https://en.wikipedia.org/wiki/Bible_(screenwriting)):
+This website is meant to work as a story bible for the universe wherein the Bionic Blue game takes place.
+
+According to [Wikipedia](https://en.wikipedia.org/wiki/Bible_%28screenwriting%29):
 
 > A bible, also known as a show bible or pitch bible, is a reference document used by screenwriters for information on characters, settings, and other elements of a television, film or video game project.
 
-However, I don't like the terms "story bible", "show bible" or "pitch bible".
+However, for the purposes of this documentation, I don't want to use the terms "story bible", "show bible" or "pitch bible". Each of them ties the contents to a specific medium or purpose (story, show, pitch). Sure, this kind of document is great for all of those purposes, but herein I want to use it mainly for the purpose of fleshing out the world. All other purposes, although important, are secondary to this.
 
-"Story bible" is bad because stories usually have a beginning and an end, but I want the document to be a reference for the universe where the game happens, potentially being used for sequels/prequels, not just a single story. There could even be unrelated stories spun from this documentation of the game's universe, so the term "story" would be a limiting factor.
-
-"Show bible" doesn't cut it either because it is obviously not for a show, but a game. However, I also don't want the content to be constrained by the fact that it is primarily for a game. Think of it as being more general than that, eventually being adapted for the game, but not constrained by it, as this could serve as source material for other works, related or not, like other game titles, books, etc.
-
-"Pitch bible" would also be limiting, because although this kind of work is great for pitching projects (and I do intend to include such kind of content in it), this material is also not just for pitching.
+I'd like this fleshed out world documented here to be entertaining on its own. I then want to use it as the base for many different kinds of projects/media.
 
 That's why I use the term "lore" or "lore website", which is much more general and open-ended.
+
+Of course, since at first it is being used primarily to help me come up with the world building for the game, it will be heavily influenced by that kind of medium, but even so I want this lore to be independent, to stand on its own as a complete document not tied to anything else. Instead, think of the game as being tied to it, to the rich world, characters and stories it describes.
 
 
 ## Support the projects
