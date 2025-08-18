@@ -1,4 +1,4 @@
-# Definition and purpose(s) of the Bionic Blue lore website
+# About the website
 
 This website is meant to work as a story bible for the universe wherein the Bionic Blue game ([game's website](https://bionicblue.indiesmiths.com) | [game's GitHub repo](https://github.com/IndieSmiths/bionicblue)) by [Kennedy Guerra](https://kennedyrichard.com) takes place.
 
